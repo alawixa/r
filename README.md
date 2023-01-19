@@ -5,7 +5,7 @@ Aplication includes llist of existing Metorologic Reports and New Reports form w
 To run this app, install it locally using npm:
 
 ```
-$ cd ../lorem
+$ cd ../rek
 $ npm install
 $ npm start
 ```
