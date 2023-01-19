@@ -1,0 +1,12 @@
+
+body {
+  font-family: 'metropolis black';
+  background: linear-gradient(to right, rgb(24,81,142) 0%, rgb(141,210,214) 100%);
+  font-size:  35px;
+  text-align: center;
+  color: whitesmoke;
+  line-height: 100%;
+  margin-top: 5%;
+  
+
+}

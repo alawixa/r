@@ -1,0 +1,102 @@
+
+h4{
+	font-size: 30px;
+	color:  blue;
+}
+
+div.divForm{
+/*  border: 1px solid;*/
+
+  width: 40%;
+  border-radius: 10px;
+  border-color: whitesmoke;
+  margin: 2% 30% 2% 30%;
+  padding: 1% 1% 1% 1%;
+  display:  grid;
+  background: rgb(250,240,116);
+/*  grid-template-columns: 30% 70% *//*150px 150px 150px 150px*/;
+  /*grid-template-rows: 0.5fr 1fr 0.5fr 1fr 1fr 1fr*/ /*1fr 1fr 1fr*/;
+  gap: 5px;
+  
+
+  font-size:  20px;
+  text-align: left;
+  color: rgb(100,0,150);
+  font-family: 'metropolis';
+  line-height: 100%;
+}
+
+input.inputNumber{
+  width: 70%;
+  border: 1px solid whitesmoke;
+  background: rgb(237,61,140);
+  color: whitesmoke;
+  font-size:  15px;
+  font-family: 'metropolis';
+  border-radius: 5px;
+  opacity: 1;
+  height: 100%;
+  margin: 2px;
+  /*  text-align: center;*/
+}
+
+input.inputTemp{
+  width: 20%;
+  border: 1px solid whitesmoke;
+  background: rgb(237,61,140);
+  color: whitesmoke;
+  font-size:  15px;
+  font-family: 'metropolis';
+  border-radius: 5px;
+  opacity: 1;
+  height: 100%;
+  margin: 2px;
+
+}
+
+input.inputUnit{
+  width: 20%;
+  border: 1px solid whitesmoke;
+  background: rgb(237,61,140);
+  color: whitesmoke;
+  font-size:  15px;
+  font-family: 'metropolis';
+  border-radius: 5px;
+  opacity: 1;
+  height: 100%;
+  margin: 2px;
+}
+
+input.inputDate{
+  width: 30%;
+  border: 1px solid whitesmoke;
+  background: rgb(237,61,140);
+  color: whitesmoke;
+  font-size:  15px;
+  font-family: 'metropolis';
+  border-radius: 5px;
+  opacity: 1;
+  height: 100%;
+  margin: 2px;
+
+}
+
+input.inputCity{
+  width: 30%;
+  border: 1px solid whitesmoke;
+  background: rgb(237,61,140);
+  color: whitesmoke;
+  font-size:  15px;
+  font-family: 'metropolis';
+  border-radius: 5px;
+  opacity: 1;
+  height: 100%;
+  margin: 2px;
+  
+}
+
+p.pWrong {
+  color: red;
+  font-size:  13px;
+  margin-bottom: 0px;
+}
